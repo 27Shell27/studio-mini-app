@@ -1,6 +1,6 @@
 # studio-mini-app
 
-MVP Telegram Mini App для записи в студию звукозаписи.
+MVP Telegram Mini App для записи в студию
 
 ## Что внутри
 
